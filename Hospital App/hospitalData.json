@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "City Hospital",
+      "patientCount": 120,
+      "location": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Green Valley Clinic",
+      "patientCount": 85,
+      "location": "Los Angeles"
+    }
+  ]
+  
